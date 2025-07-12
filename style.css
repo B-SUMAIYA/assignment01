@@ -12,16 +12,18 @@
 .btn{
     color: white;
     background-color: blue;
-    border: 4px solid blue;
+    border:  solid ;
     cursor: pointer;
     font-weight: bold;
-    padding: 5px;
+    padding: 10px;
     border-radius: 10px;
+    white-space: nowrap;
+
    
 }
 .btn:hover{
   background-color: yellowgreen;
-  color: rgb(102, 3, 102);
+  
 }
 nav ul li{
     list-style: none;
