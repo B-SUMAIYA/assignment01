@@ -1,0 +1,176 @@
+.btnn{
+  color: blue;  
+  font-size: 35px;
+  font-weight: bold;
+  cursor: pointer;
+  
+  
+}
+.btnn:hover{
+  color: rgb(67, 1, 67);
+}
+.btn{
+    color: white;
+    background-color: blue;
+    border: 4px solid blue;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 10px;
+   
+}
+.btn:hover{
+  background-color: yellowgreen;
+  color: rgb(102, 3, 102);
+}
+nav ul li{
+    list-style: none;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 750px;
+
+}
+nav ul{
+  display: flex;
+
+}
+.bottom-line{
+  text-align: center;
+  margin-top: 80px;
+  list-style: none;
+}
+nav{
+  align-items: center;
+  justify-content: space-between;
+}
+.image{
+  background-image: url('Assets/Hero-bg.png');
+
+  background-size: cover;
+  height: 300px;
+  padding: 20px;
+}
+.scnd-section{
+  list-style: none;
+  padding: 20px 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 40px;
+  background-color: white;
+  margin-right: 50px;
+  margin-left: 50px;
+  border-radius: 20px;
+
+  
+  
+
+}
+.img{
+  display: flex;
+  justify-content: flex-end;
+  max-width: 100%;
+  height: auto;
+  border-radius: 60px;
+}
+.prg{
+  color:rgb(142, 143, 144)
+}
+.li-grp{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+gap: 50px;
+
+
+}
+
+.pro-sec{
+  text-align: center;
+  background-color: azure;
+  margin-right: 100px;
+  margin-left: 100px;
+  border-radius: 40px;
+
+}
+.b{
+  color: blue;
+}
+.last{
+  text-align: center;
+  background-color: aliceblue;
+  border-radius: 50px;
+  margin-right: 80px;
+  margin-left: 80px;
+}
+.imgg{
+  height: 150px;
+  border-radius: 40px;
+
+}
+.clr{
+  background-color: white;
+}
+
+.form{
+  margin-left: 400px;
+  gap:0px;
+}
+.h{
+  display: flex;
+  text-align:center;
+  font-size: 80px;
+}
+.buttonn{
+  padding: 5px;
+  width: 200px;
+  color: white;
+  background-color: blue;
+}
+.buttonn:hover{
+  background-color: rgb(88, 134, 2);
+}
+.my-footer{
+  background-color: white;
+  height: 350px;
+  width: 800px;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 300px;
+  margin-top: 30px;
+  border-radius: 30px;
+ 
+  
+}
+.lst{
+  font-size: 60px;
+  color: blue;
+  text-align: center;
+  
+}
+footer {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  background-color:white;
+  margin: -10px;
+  margin-left:  300px;
+}
+.clrr{
+  color: rgb(80, 95, 95);
+}
+.logoo{
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  color: rgb(80, 95, 95);
+}
+
+
+
+
+
+
+
+
